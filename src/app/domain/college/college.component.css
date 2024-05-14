@@ -1,0 +1,15 @@
+
+button {
+    font-size: 20px;
+    padding: 35px 200px; 
+    color: white; 
+  background-color: #2e3032; 
+  border: none; 
+  border-radius: 5px; 
+  }
+  
+ 
+  button + button {
+    margin-left: 300px; 
+  }
+  
